@@ -4,3 +4,4 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
+#my name is sydnee
