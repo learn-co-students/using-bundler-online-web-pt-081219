@@ -1,7 +1,7 @@
 require 'bundler'
 
 describe "Bundler" do
-  before :all do
+  before ':all do
     @bundle_output = ""
     Bundler.with_clean_env do
       @bundle_output = `bundle`
